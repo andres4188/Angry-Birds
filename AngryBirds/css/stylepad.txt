@@ -1,0 +1,27 @@
+Styles I Used
+
+<style>
+.large-red-text{Font-family:Arial; 
+	Font-size:50px; 
+	Color:red;} 
+	.red-text {
+				color:#ff0000;
+				font-weight: bold;
+			  }
+	.yellow-text{
+				color:#ffd700;
+				font-weight: bold;
+				}
+	.green-text{
+				color:#008000;
+				font-weight: bold;
+				}
+	.purple-text{
+				color:#800080;
+				font-weight: bold;
+				}
+	.light-blue-text{
+				color:#73a3f0;
+				font-weight: bold;
+				}
+</style>
