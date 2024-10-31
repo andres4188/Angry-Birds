@@ -1,27 +1,79 @@
-Styles I Used
-
-<style>
-.large-red-text{Font-family:Arial; 
-	Font-size:50px; 
-	Color:red;} 
+<style> 
 	.red-text {
 				color:#ff0000;
 				font-weight: bold;
 			  }
+	.big-red-text {
+				color:#ff0000;
+				font-weight:bold;
+				font-size:27px;
+			  }
+	
 	.yellow-text{
 				color:#ffd700;
 				font-weight: bold;
 				}
+	.big-yellow-text{
+				color:#ffd700;
+				font-weight: bold;
+				font-size:27px;
+				}
+				
 	.green-text{
 				color:#008000;
 				font-weight: bold;
 				}
+	.big-green-text{
+				color:#008000;
+				font-weight: bold;
+				font-size:27px;
+				}
+				
 	.purple-text{
 				color:#800080;
 				font-weight: bold;
 				}
+	.big-purple-text{
+				color:#800080;
+				font-weight: bold;
+				font-size:27px;
+				}
+	.bomb		{
+				font-size:27px;
+				}
+				
 	.light-blue-text{
 				color:#73a3f0;
 				font-weight: bold;
 				}
+	/* images settings are here*/
+	
+.image-red {
+            position: absolute; 
+			left: 600px;
+			top:27px;
+			}
+			
+.image-chuck{
+			position: absolute;
+			left:670px;
+			top:175px;
+			}
+.small-image-chuck{
+			position: absolute;
+			left:292px;
+			top:154px;
+			}
+			
+.image-hal{ 
+			position: absolute;
+			top:160px;
+			left:850px;
+			}
+.weird-hal{
+			position: absolute;
+			left:555px;
+			top:364px;
+			}
+		
 </style>
